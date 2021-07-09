@@ -1,3 +1,7 @@
+/* The dotenv package provides support for reading 
+environment variables from the .env file.
+*/
+require('dotenv').config();
 /*
 This code imports the ApolloServer class from apollo-server,
 along with our schema from src/schema.js.
